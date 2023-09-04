@@ -1,5 +1,46 @@
 <resources>
-    <string name="app_name">MiGaleria</string>
+    <string name="app_name">Lab6EmilioSolano</string>
     <string name="User">User: %s</string>
     <string name="Password">Password: %s</string>
+
+    <string name="nombre_obra1" translatable="false">La noche estrellada</string>
+    <string name="anio_obra1" translatable="false">1889</string>
+    <string name="autor_obra1" translatable="false">Vincent van Gogh</string>
+
+    <string name="nombre_obra2" translatable="false">La Mona Lisa</string>
+    <string name="anio_obra2" translatable="false">1503-1506, 1513-1516</string>
+    <string name="autor_obra2" translatable="false">Leonardo da Vinci</string>
+
+    <string name="nombre_obra3" translatable="false">El grito</string>
+    <string name="anio_obra3" translatable="false">1893</string>
+    <string name="autor_obra3" translatable="false">Edvard Munch</string>
+
+    <string name="nombre_obra4" translatable="false">La Persistencia de la Memoria</string>
+    <string name="anio_obra4" translatable="false">1931</string>
+    <string name="autor_obra4" translatable="false">Salvador Dalí</string>
+
+    <string name="nombre_obra5" translatable="false">Terraza de café por la noche</string>
+    <string name="anio_obra5" translatable="false">1888</string>
+    <string name="autor_obra5" translatable="false">Vincent van Gogh</string>
+
+    <string name="nombre_obra6" translatable="false">La gran ola de Kanagawa</string>
+    <string name="anio_obra6" translatable="false">1830-1833</string>
+    <string name="autor_obra6" translatable="false">Katsushika Hokusai</string>
+
+    <string name="nombre_obra7" translatable="false">La joven de la perla</string>
+    <string name="anio_obra7" translatable="false">1665</string>
+    <string name="autor_obra7" translatable="false">Johannes Vermeer</string>
+
+    <string name="nombre_obra8" translatable="false">15 girasoles en un jarrón</string>
+    <string name="anio_obra8" translatable="false">1888</string>
+    <string name="autor_obra8" translatable="false">Vincent van Gogh</string>
+
+    <string name="nombre_obra9" translatable="false">La escuela de Atenas</string>
+    <string name="anio_obra9" translatable="false">1509-1511</string>
+    <string name="autor_obra9" translatable="false">Rafael</string>
+
+    <string name="nombre_obra10" translatable="false">La Última Cena</string>
+    <string name="anio_obra10" translatable="false">1495-1498</string>
+    <string name="autor_obra10" translatable="false">Leonardo da Vinci</string>
+
 </resources>
