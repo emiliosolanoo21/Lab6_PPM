@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MiGaleria</string>
+    <string name="User">User: %s</string>
+    <string name="Password">Password: %s</string>
 </resources>
