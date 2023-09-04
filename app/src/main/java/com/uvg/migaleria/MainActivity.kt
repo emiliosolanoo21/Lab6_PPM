@@ -113,7 +113,7 @@ data class Credentials(var inicio: String = "", var contra: String="", var remem
 }
 
 fun checkCredentials(creds: Credentials, context: Context){
-    if (creds.isNotEmpty() && creds.inicio == "sol21212" && creds.contra == "uvg.edu.gt"){
+    if (creds.isNotEmpty() && creds.inicio == "sol21212" && creds.contra == "uvgedugt"){
         val sharedPreferences = context.getSharedPreferences("ArtSpacePrefs", Context.MODE_PRIVATE)
         with(sharedPreferences.edit()) {
             putBoolean("startedSession", true)
